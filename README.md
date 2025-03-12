@@ -1,7 +1,7 @@
 # RayTemplate
 A personal Template for Raylib using Vinculum.
 
-Use "dotnet new install .\" while in the RayTemplate Folder to create a new c# template. 
+Use "dotnet new install .\\" while in the RayTemplate Folder to create a new c# template. 
 
 
 Note to self:
