@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "33bdce8v40s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joeys\\Projects\\C#\\RayAppTemplate\\RayApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joeys\\.nuget\\packages\\communitytoolkit.highperformance\\8.1.0\\communitytoolkit.highperformance.8.1.0.nupkg.sha512",
+    "C:\\Users\\joeys\\.nuget\\packages\\raylib-csharp-vinculum\\5.0.1\\raylib-csharp-vinculum.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
